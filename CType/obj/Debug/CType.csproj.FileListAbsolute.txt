@@ -1,0 +1,8 @@
+D:\work\c#\Visual C#\CType\CType\bin\Debug\CType.exe
+D:\work\c#\Visual C#\CType\CType\bin\Debug\CType.pdb
+D:\work\c#\Visual C#\CType\CType\obj\Debug\CType.csprojResolveAssemblyReference.cache
+D:\work\c#\Visual C#\CType\CType\obj\Debug\CType.Form1.resources
+D:\work\c#\Visual C#\CType\CType\obj\Debug\CType.Properties.Resources.resources
+D:\work\c#\Visual C#\CType\CType\obj\Debug\CType.csproj.GenerateResource.Cache
+D:\work\c#\Visual C#\CType\CType\obj\Debug\CType.exe
+D:\work\c#\Visual C#\CType\CType\obj\Debug\CType.pdb
